@@ -1,0 +1,84 @@
+#green{
+    color: teal;
+}
+#yellow{
+    color: gold;
+}
+.logo-width img{
+    width: 80%;
+    }
+.outer-border{
+    border: 0;
+    border-radius: 1em;
+
+}
+.inner-border{
+    border-radius: 1em;;
+}
+.inner-border-background{
+    padding: 2em;
+    background-color: RGB(217,217,214);
+}
+.panda-card-footer{
+    border: 0;
+    border-radius: 1em;
+    background-color: white;
+}
+.buy-now-btn{
+    color: white;
+    background-color: rgb(45, 42, 123);
+    border: none;
+    padding:8px 20px;
+    font-size: 17px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+h1{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size:70px;
+}
+h2{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 50px;
+}
+h3{
+    color:rgb(55,181,74);
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 50px;
+}
+h4{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.categories img{
+    width: 100px;
+}
+.backgroun-of-caro-slide {
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+#third-caro-bg-color{
+    background-color: yellowgreen;
+}
+#second-caro-bg-color{
+    background-color: orangered
+}
+.cartoon-img-width img{
+    width: 50%;
+}
+#shopping-photo img{
+    width: 80%;
+    margin-top: 12%;
+    margin-left: 10%;
+}
+.submit-form{
+    color:navy;
+    background-color: rgb(185, 247, 255);
+    border-radius: 15px;
+}
+#button-of-submit{
+    border: none;
+    background-color: rgb(28, 82, 182);
+    color: white;
+    padding: 3px 20px;
+    border-radius: 5px;
+}
